@@ -1,0 +1,14 @@
+title: CitySense
+description: Greenhouse gas sensor networks for future cities
+sitename: CitySense
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+  - CNAME
